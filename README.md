@@ -29,3 +29,12 @@ RDBMS: Relational Database Management System ou Sistema Gerenciador de Banco de 
 Chave-Primária (primary-key): é um atributo ou conjunto deles que são únicos, como um CPF que não pode se repetir, ou um numero de identificação único de cada usuário.
 
 Chave-Estrangeira (foreign-key): é o atributo que relaciona as tabelas com dados comuns entre elas, conectando os dados e referenciado com chaves primárias.
+
+
+Prompts de revisão:
+
+Faça uma lista dos principais comandos utilizados em bancos de dados relacionais.
+
+Faça uma prova de 10 perguntas sobre todos os tópicos relacionados a bancos de dados.
+
+Me faça um desafio simples para treinar meus conhecimentos práticos no PostgreSQL.
